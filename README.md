@@ -60,3 +60,5 @@ there if they already exist):
 ```bash
 $ oi_download_images --meta_dir ~/openimages --base_dir ~/openimages --labels Scissors --limit 100
 ```
+
+test prow
