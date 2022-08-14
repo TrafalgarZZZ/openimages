@@ -1,5 +1,5 @@
 # openimages
-test-prow-2
+test-prow-xxx
 
 Tools for downloading images and corresponding annotations from Google's 
 [OpenImages](https://storage.googleapis.com/openimages/web/index.html) dataset.
